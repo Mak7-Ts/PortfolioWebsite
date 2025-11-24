@@ -6,7 +6,7 @@ class CustomFaceBanner extends HTMLElement {
   }
 
   connectedCallback() {
-    const logoImage = "/main/src/images/face-banner-image.png";
+    const logoImage = "/src/images/face-banner-image.png";
     const alterLogoImage = "face-banner-image";
 
     this.alterLogoImage = alterLogoImage;

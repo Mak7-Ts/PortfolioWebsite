@@ -29,9 +29,9 @@ class CustomResponseBanner extends HTMLElement {
             <div>
                 <h1>Clients</h1>
                 <div class = "comments">
-                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/main/src/images/client-first.png" data-name = "Gemma Nolen, Google"></custom-client-response>
-                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/main/src/images/client-second.png" data-name = "Gemma Nolen, Google"></custom-client-response>
-                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/main/src/images/client-third.png" data-name = "Gemma Nolen, Google"></custom-client-response>
+                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/src/images/client-first.png" data-name = "Gemma Nolen, Google"></custom-client-response>
+                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/src/images/client-second.png" data-name = "Gemma Nolen, Google"></custom-client-response>
+                    <custom-client-response data-comment = "This is a template Figma file, turned into code using Anima. Learn more at AnimaApp.com" data-src = "/src/images/client-third.png" data-name = "Gemma Nolen, Google"></custom-client-response>
                 </div>
             </div>
         </section>

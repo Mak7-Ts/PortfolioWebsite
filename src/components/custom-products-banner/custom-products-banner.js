@@ -25,9 +25,9 @@ class CustomProductsBanner extends HTMLElement {
 
         <section>
             <div>
-                <custom-product-item data-src="/main/src/icons/product-item-image-first.png" data-text = "Product design"></custom-product-item>
-                <custom-product-item data-src="/main/src/icons/product-item-image-second.png" data-text = "Art direction"></custom-product-item>
-                <custom-product-item data-src="/main/src/icons/product-item-image-third.png" data-text = "Visual design"></custom-product-item>
+                <custom-product-item data-src="/src/icons/product-item-image-first.png" data-text = "Product design"></custom-product-item>
+                <custom-product-item data-src="/src/icons/product-item-image-second.png" data-text = "Art direction"></custom-product-item>
+                <custom-product-item data-src="/src/icons/product-item-image-third.png" data-text = "Visual design"></custom-product-item>
             </div>
         </section>
     `;

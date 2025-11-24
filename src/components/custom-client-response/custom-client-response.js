@@ -50,7 +50,7 @@ class CustomClientResponse extends HTMLElement {
                 <div class = "bottom">
                     <img class = "user-image"src=${userImgPath} alt="client">
                     <div class = "name">
-                        <img src="/main/src/icons/Rate stars.png" alt="Rate">
+                        <img src="/src/icons/Rate stars.png" alt="Rate">
                         <p>${userName}</p>
                     </div>
                 </div>

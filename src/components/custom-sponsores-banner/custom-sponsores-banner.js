@@ -6,11 +6,11 @@ class CustomSponsoresBanner extends HTMLElement {
   }
 
   connectedCallback() {
-    const behanceIcon = "/main/src/icons/Behance-icon.png"
-    const googleIcon = "/main/src/icons/Google-icon.png"
-    const appleIcon = "/main/src/icons/Apple-icon.png"
-    const dribbbleIcon = "/main/src/icons/Dribbble-icon.png"
-    const awwwardsIcon = "/main/src/icons/Awwwards-icon.png"
+    const behanceIcon = "/src/icons/Behance-icon.png"
+    const googleIcon = "/src/icons/Google-icon.png"
+    const appleIcon = "/src/icons/Apple-icon.png"
+    const dribbbleIcon = "/src/icons/Dribbble-icon.png"
+    const awwwardsIcon = "/src/icons/Awwwards-icon.png"
 
     const altBehanceIcon = "behance-Icon";
     const altGoogleIcon = "Google-icon"

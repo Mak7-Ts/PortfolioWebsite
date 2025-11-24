@@ -6,7 +6,7 @@ class CustomHeader extends HTMLElement {
   }
 
   connectedCallback() {
-    const logoImage = "/main/src/icons/Logo.png";
+    const logoImage = "/src/icons/Logo.png";
     const alterLogoImage = "Logo";
 
     this.alterLogoImage = alterLogoImage;
