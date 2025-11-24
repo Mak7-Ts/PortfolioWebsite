@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: auto;
+}
+.aggfgfg{
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+}

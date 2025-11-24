@@ -1,0 +1,10 @@
+import './src/components/custom-header/custom-header.js';
+import './src/components/custom-face-banner/custom-face-banner.js'
+import './src/components/custom-sponsores-banner/custom-sponsores-banner.js'
+import './src/components/custom-product-item/custom-product-item.js'
+import './src/components/custom-products-banner/custom-products-banner.js'
+import './src/components/custom-products-banner/custom-products-banner.js'
+import './src/components/custom-work-card/custom-work-card.js'
+import './src/components/custom-works-banner/custom-works-banner.js'
+import './src/components/custom-client-response/custom-client-response.js'
+import './src/components/custom-responses-banner/custom-responses-banner.js'
